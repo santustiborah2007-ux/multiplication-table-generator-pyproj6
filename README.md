@@ -1,2 +1,20 @@
-# multiplication-table-generator-pyproj6
-Aspiring AI &amp; Data Science Student | Python | SQL | Building projects and learning new technologies
+# Multiplication Table Generator
+
+A Python program that generates multiplication tables for a given number.
+
+## Features
+
+* Accepts user input
+* Generates multiplication table
+* Displays results in a structured format
+
+## Technologies Used
+
+* Python
+
+## What I Learned
+
+* Loops
+* Arithmetic operations
+* Formatting output
+* User interaction
